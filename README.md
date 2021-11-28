@@ -1,7 +1,7 @@
 # Financial Data Estimator
 CS464 - Introduction to Machine Learning Project
 
-## Team Memebers
+## Team Members
 - Göktuğ Çağıran
 - Kübra Okumuş
 - Cem Bingöl
